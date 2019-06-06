@@ -1,0 +1,2 @@
+C:\Users\Jaya Vasudevan\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\SpecflowParallel.csprojAssemblyReference.cache
+C:\Users\Jaya Vasudevan\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\SpecflowParallel.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+﻿{
+  "outputPath": "D:\\UI_Reports",
+  "dataServiceFile": "Ghpr.LocalFileSystem.dll",
+  "loggerFile": "",
+  "sprint": "",
+  "runName": "",
+  "reportName": "UI Automation Report New",
+  "projectName": "Project two",
+  "runGuid": "",
+  "realTimeGeneration": "True",
+  "runsToDisplay": "10",
+  "testsToDisplay": "10",
+  "retention": {
+    "amount": 1000,
+    "till": "2010-08-24 10:00:00"
+  }
+}
